@@ -1,0 +1,92 @@
+html{
+        height: 100% !important;
+}
+
+body {
+    background-color: rgb(34,37,51) !important;
+    background-image: url('../images/bg-curvy-desktop.svg') !important; 
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-position: center 42rem; 
+    color: white !important;
+}
+
+.section-red {
+    background-color: rgb(24,31,43) !important;
+    color: white;
+    margin: 0rem !important;
+    padding: 0rem !important;
+    width: 100vw !important;
+    margin-left: calc(-50vw + 50%) !important;
+}
+
+.full-width-container {
+    width: 100%;
+    padding: 0; 
+    margin: 0; 
+}
+
+
+
+
+
+
+
+
+
+.navbar{
+    background-color: rgb(34,37,51) !important;
+}
+
+nav a {
+        color: rgb(250, 250, 250) !important;
+}   
+
+.bor-1 {
+    border: 1px solid aquamarine !important; 
+    border-radius: 5px !important; 
+}
+
+
+h1{
+    font-size: 2.5rem !important;
+
+}
+
+
+
+
+
+.parrafo-1{
+    font-size: 0.8rem !important;
+    line-height: 1.5;
+}
+
+
+
+
+.btn-1{
+           background-color: rgb(101, 230, 230) !important; 
+           border: none; color: white !important;
+           font-size: 1rem !important;
+
+}
+
+
+footer{
+            background-color: rgb(21,26,40);
+            width: 100vw !important;
+
+            position: relative;
+            box-sizing: border-box;
+            margin-left: calc(-50vw + 50%) !important;
+            margin-top: -70px !important;
+            padding-top: 10rem !important;
+            padding-bottom: 5rem !important;
+}
+
+
+@media (min-width:992px){
+    .loro {text-align: center;
+    }
+}
